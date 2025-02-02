@@ -1,0 +1,16 @@
+* {
+    padding-top: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Aplicação de fontes */
+
+@font-face {
+    font-family: Yugioh;
+    src: url(../fontes/fonte-yu-gi-oh.otf);
+}
